@@ -1,0 +1,50 @@
+body{
+	font-family: sans-serif;
+	text-align: center;
+
+}
+
+.contenedor{
+	background: #fff;
+	line-height: 60%;
+	position: relative;
+	
+	
+
+}
+.contenedor div{
+	/* outline: 0.1em solid red;*/
+	/*display: inline-block; cambia bloque a caracteristicas de linea */
+	
+	float:left;
+	margin:0.2%; 
+	padding: 2%  0.4%;
+	background:#F5A9F2;
+	position:relative;
+	width:120px;
+	height: 120px;
+}
+h4{
+	font-size: 60%;
+	margin: 10%;
+	padding: 0%;
+
+}
+
+h6{
+	font-size: 52%;
+	margin: 4%;
+	font-family: 'Nunito', sans-serif;
+	font-style: italic;
+	}
+
+p{
+	font-size: 50%;
+	margin: 0.5% 3%;
+}
+
+.corazon{
+	color:#585858;
+	background: #FFFFFF;
+	box-shadow: 2px 2px 5px gray;/* sombreado a un icono*/
+}
